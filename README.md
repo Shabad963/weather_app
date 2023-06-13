@@ -14,4 +14,5 @@ Search option for desired location
 Instructions: 
 
 Open the application and give user's current location or search any location.
+(Give permission for current location)
 It will navigate to the temperature details page.
